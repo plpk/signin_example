@@ -1,4 +1,4 @@
 # signin_example
 
-A web sigin Flutter example with animations.
+A web signin Flutter example with color animation progress bar.
 
